@@ -2,10 +2,10 @@
   "logs": [
     {
       "id": "746f",
-      "message": "1122 wireless down",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2024-05-31T05:52:45.918Z"
+      "message": "1122 wireless down; fixed on Monday",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2024-05-31T06:34:40.520Z"
     },
     {
       "id": "82c5",
